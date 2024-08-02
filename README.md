@@ -1,6 +1,8 @@
 # AdyMob-Factory-Calculator
 The AdyMob Factory Calculator is a Python-based application designed for use in furniture workshops. This application helps workers calculate dimensions, costs, and the number of sheets needed for various wood pieces used in furniture manufacturing. It features an intuitive GUI built with Tkinter, allowing users to input dimensions and see the calculations in real-time.
 
+![image](https://github.com/user-attachments/assets/ee1703cd-e553-433c-9e26-f7f5551b7598)
+
 Features:
 
 - Intuitive GUI: Simple and user-friendly interface for inputting wood piece dimensions and costs.
