@@ -16,3 +16,5 @@ Future Goals:
 - Cutting Pattern Generation: Implement an advanced algorithm to generate optimal cutting patterns for workers.
 - Data Validation: Add more robust input validation to handle various edge cases.
 - Localization: Support multiple languages to cater to a wider audience.
+
+Special thanks to my fellow Alexandra for helping with this project.
